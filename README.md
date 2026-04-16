@@ -12,6 +12,7 @@ Rabbit-hole engineer | 2nd year AI & DS | From curiosity to commits
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+
 **Web Technologies**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,12 +22,6 @@ Rabbit-hole engineer | 2nd year AI & DS | From curiosity to commits
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**Data & ML**
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **Tools & Databases**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -41,9 +36,9 @@ Rabbit-hole engineer | 2nd year AI & DS | From curiosity to commits
 
 ### 📊 GitHub Stats
 
-![Shambavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shambavishambavi2007&show_icons=true&theme=tokyonight)
+![Shambavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shambavi2007&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Shambavishambavi2007&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=shambavi2007&theme=tokyonight)
 
 ---
 
