@@ -1,6 +1,6 @@
 # Hi, I'm Shambavi 
 
-AI Student | Developer | Passionate About Technology and Innovation
+AI Student | Developer | Passionate About Technology and Innovation  
 Code. Scale. Impact.
 
 ---
