@@ -1,6 +1,7 @@
-# Hi, I'm Shambavi 👋
+# Hi, I'm Shambavi 
 
-Rabbit-hole engineer | 2nd year AI & DS | From curiosity to commits
+AI Student | Developer | Passionate About Technology and Innovation
+Code. Scale. Impact.
 
 ---
 
@@ -44,5 +45,6 @@ Rabbit-hole engineer | 2nd year AI & DS | From curiosity to commits
 
 ### 🌱 Currently
 
-- Contributing to open source via GSSoC
-- Exploring ML, web, and everything in between
+- Open Source Contributions  
+- Hackathons  
+- Learning and collaboration  
